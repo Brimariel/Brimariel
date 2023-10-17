@@ -1,0 +1,32 @@
+def student():
+  
+  print ("what was your average grade?")
+  grade = str(input) 
+  if grade < 75:
+    print("great!")
+
+  elif grade > 60:
+    print ("you need to improve")
+
+  else :
+    print ("ok")
+
+  print("did you have clasroom participation?")
+  input() 
+  
+  if yes and  grade < 75:
+    print("you're in good academic standing")
+  
+  elif no:
+    print("improve your performance")
+
+  print ("what's your score proyect?")
+  proyect = str(input)
+  
+  if proyect < 90:
+    print("you recive a distinction")
+
+student()
+
+
+    
